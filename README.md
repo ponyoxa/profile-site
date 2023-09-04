@@ -4,4 +4,4 @@
 
 ## 使用ライブラリ
 
--   CSS : [Materialize](https://materializecss.com/)
+-   CSS : [Materialize](https://materializeweb.com/)
